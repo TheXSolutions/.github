@@ -35,7 +35,7 @@
     <h2 align="center">Our Works</h2>
 </p>
 <p align="center">
-    <a href="https://github.com/TheXSolutions/badgify">
+    <a href="https://github.com/shuoros/badgify">
       <img src="https://user-images.githubusercontent.com/45015114/157028899-efb256dd-efe6-47a8-895d-86a61f4f31c6.png" align="center" alt="badgify" />
     </a>
     <h3 align="center">Badgify</h3>
